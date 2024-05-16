@@ -29,7 +29,7 @@
   - COMPTIA A+ (currently studying)
 
 <h2> 🤳 Connect with me on Linkedin!</h2>
--[https://www.linkedin.com/in/mattanpham/](https://www.linkedin.com/in/mattanpham/)
+https://www.linkedin.com/in/mattanpham/
 
 <!--
 Here are some ideas to get you started:
