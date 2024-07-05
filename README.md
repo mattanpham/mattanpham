@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matthew or Matt! <br/><a>A recent graduate looking for a full-time in Software Engineering or Desktop Support</a></h1>
+<h1>Hi, I'm Matthew or Matt! <br/><a>A recent graduate looking for a full-time in QE Testing or Desktop Support</a></h1>
 
 <h2>👨‍💻 Coding Projects:</h2>
 
@@ -7,7 +7,7 @@
 - <b>Python Projects</b>
   - [Python SQL Password Manager](https://github.com/mattanpham/Python-SQL-password-manager)
   - [Personal Discord Bot](https://github.com/mattanpham/MattBot)
-  - [Python Directory File Manager]()
+  - [Python Directory File Manager](https://github.com/mattanpham/Python-File-Automation-Script)
 
 <h2>🌐 IT and Networking Projects</h2>
 
