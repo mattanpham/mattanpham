@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matthew or Matt! <br/><a>A recent graduate looking for a full-time in QE Testing or Desktop Support</a></h1>
+<h1>Hi, I'm Matthew or Matt! <br/><a>A recent graduate looking for a full-time in QA Testing or Desktop Support</a></h1>
 
 <h2>👨‍💻 Coding Projects</h2>
 
